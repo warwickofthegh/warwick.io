@@ -33,3 +33,21 @@ npm package installs a command line utility, which published everything in dist 
 ```
 npm run deploy
 ```
+
+## Releases
+
+* Planned Featues
+  * PWA Compatibility
+  * Social header tag
+  * Additional Header tags
+
+#### Version 1.0
+* Initial release
+* New Features
+  * Items pulled from data.json
+  * Style from style.css
+  * Single Page from index.html
+  * JavaScript to fetch and push items into DOM in app.js 
+  * Google Analytics Tag
+
+#### Version 0.1
