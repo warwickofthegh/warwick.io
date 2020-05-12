@@ -12,18 +12,24 @@ Hand crafted HTML, CSS and JavaScript. Was looking to build this simple single p
 * Database: local .json files :floppy_disk:
 
 #### Design
-Won't deny I styled the design on the works of (issacforman.com.au)[issacforman.com.au] - I plan to get in touch as he's an Adelaidian also.
+Won't deny I styled the design on the works of <a href="issacforman.com.au">issacforman.com.au</a> - I plan to get in touch as he's an Adelaidian also.
 
 #### Hosting 
 Hosted on github pages with a custom url
 
 ## Deploy
 
-#### Git Command
+#### Git Commands to update master branch
 ```
+git add . 
+git commit -m "updates"
+git push -u origin master
+```
+#### Push assets from /dist to gh-pages branch
 
-```
-Push assets from /dist to gh-pages branch
+* gh-pages - https://www.npmjs.com/package/gh-pages
+npm package installs a command line utility, which published everything in dist folder to gh-pages branch
+
 ```
 npm run deploy
 ```
