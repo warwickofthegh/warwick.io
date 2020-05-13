@@ -40,6 +40,12 @@ npm run deploy
   * PWA Compatibility
   * Social header tag
   * Additional Header tags
+  * Icons
+  
+* Testing
+  * Lighthouse
+  * SS Labs
+  * Site checker
 
 #### Version 1.0
 * Initial release
