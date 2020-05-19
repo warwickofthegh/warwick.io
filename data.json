@@ -1,0 +1,57 @@
+{
+    "items":[
+        {
+            "type": "project",
+            "imageUrl": "img/spacewarwick.jpg",
+            "title": "Warwick Ward",
+            "body": "Thanks for checking out my portfolio, I'm an IT Consultant by day working on a wide range of web development projects for clients, side projects, hussels and hobbies are varied and many.",
+            "links": [
+                {
+                    "title": "<strong>GitHub</strong> Repos of projects and contributions",
+                    "url": "https://github.com/warwickofthegh/"
+                },
+                {
+                    "title": "<strong>LinkedIn</strong> Did some cool work there",
+                    "url": "https://www.linkedin.com/in/warwickward/"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "imageUrl": "img/monstertruck.jpg",
+            "title": "Ripping Monster Trucks"
+        },
+        {
+            "type": "image",
+            "imageUrl": "img/dirtbike.jpg",
+            "title": "Exploring on Dirt Bikes"
+        },
+        {
+            "type": "project",
+            "imageUrl": "img/homeassistant.png",
+            "title": "Home Assistant",
+            "body": "I spend way to much time automating and integrating local devices and cloud services into my <a href='https://www.home-assistant.io/' target='_blank'><strong>Home Assistant</strong></a> setup. I enjoy cotributing to the forums and have created a browser extension also.",
+            "links": [
+                {
+                    "title": "GitHub Configuration Repo",
+                    "url": "https://github.com/warwickofthegh/Home-Assistant-Configuration"
+                },
+                {
+                    "title": "Quick Restart Browser Extension",
+                    "url": "https://community.home-assistant.io/t/quick-restart-chrome-browser-extension/154476"
+                }
+            ]
+        },
+        {
+            "type": "project",
+            "imageUrl": "img/untappd.jpg",
+            "title": "Untappd",
+            "body": "Cheers to exploring the world of delicious, weird, horrible and interesting beers. <a href='https://untappd.com/user/dubsix' target='_blank'>Untappd</a> is where I've been logging my partaking."
+        },
+        {
+            "type": "image",
+            "imageUrl": "img/snowboarding.jpg",
+            "title": "Shredding the white stuff"
+        }
+    ]
+}
