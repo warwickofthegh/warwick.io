@@ -26,7 +26,7 @@ breakpoint-lg: media-wide + (margin * 2)
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 16px;
     width: 100%;
     text-align: left;
@@ -42,7 +42,7 @@ color: silver;
 }
 
 h1, h2, h3, h4, h5, h6 {
-font-family: Georgia, Times, "Times New Roman", serif;
+font-family: inherit;
 }
 
 
