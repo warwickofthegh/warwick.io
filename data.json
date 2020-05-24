@@ -2,29 +2,29 @@
     "items":[
         {
             "type": "project",
-            "imageUrl": "img/spacewarwick.jpg",
+            "imageUrl": "img/heroshot.jpg",
             "title": "Warwick Ward",
             "body": "Thanks for checking out my portfolio, I'm an IT Consultant by day working on a wide range of web development projects for clients, side projects, hussels and hobbies are varied and many.",
             "links": [
                 {
-                    "title": "<strong>GitHub</strong> Repos of projects and contributions",
+                    "title": "<strong>GitHub</strong> - Projects & Contributions",
                     "url": "https://github.com/warwickofthegh/"
                 },
                 {
-                    "title": "<strong>LinkedIn</strong> Did some cool work there",
+                    "title": "<strong>LinkedIn</strong> - Did some cool work there",
+                    "url": "https://www.linkedin.com/in/warwickward/"
+                },
+                {
+                    "title": "<strong>Untappd</strong> - Cheers to the good beers!",
                     "url": "https://www.linkedin.com/in/warwickward/"
                 }
             ]
         },
         {
-            "type": "image",
-            "imageUrl": "img/monstertruck.jpg",
-            "title": "Ripping Monster Trucks"
-        },
-        {
-            "type": "image",
-            "imageUrl": "img/dirtbike.jpg",
-            "title": "Exploring on Dirt Bikes"
+            "type": "project",
+            "imageUrl": "img/homeimprovements.jpg",
+            "title": "Home Improvement",
+            "body": "Making my way through a near full property renovation, discovering, learning, failing, designing and enjoying the process. Check out the <a href='https://www.instagram.com/f.it.ill.give.it.a.go' target='_blank'>Instragram</a> feed for some major wins along the way."
         },
         {
             "type": "project",
@@ -41,17 +41,6 @@
                     "url": "https://community.home-assistant.io/t/quick-restart-chrome-browser-extension/154476"
                 }
             ]
-        },
-        {
-            "type": "project",
-            "imageUrl": "img/untappd.jpg",
-            "title": "Untappd",
-            "body": "Cheers to exploring the world of delicious, weird, horrible and interesting beers. <a href='https://untappd.com/user/dubsix' target='_blank'>Untappd</a> is where I've been logging my partaking."
-        },
-        {
-            "type": "image",
-            "imageUrl": "img/snowboarding.jpg",
-            "title": "Shredding the white stuff"
         }
     ]
 }
