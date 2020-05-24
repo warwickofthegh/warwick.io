@@ -23,7 +23,7 @@ function createItems(items){
         if(links){
             links.forEach((link)=>{
                 itemLinksHTML += `
-                    <li><a href="${link.url}">${link.title}</a></li>
+                    <li><a href="${link.url}" target="_blank" alt="${link.title}">${link.title}</a></li>
                 `;
             });
         } 
