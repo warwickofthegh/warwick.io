@@ -1,46 +1,62 @@
 {
-    "items":[
+  "items": [
+    {
+      "type": "project",
+      "imageUrl": "img/heroshot.jpg",
+      "title": "Warwick Ward",
+      "body": "Thanks for checking out my portfolio, I'm an IT Consultant by day, whilst tinkering away on a wide range of web development projects, side projects, hussels and hobbies which are varied and many.",
+      "links": [
         {
-            "type": "project",
-            "imageUrl": "img/heroshot.jpg",
-            "title": "Warwick Ward",
-            "body": "Thanks for checking out my portfolio, I'm an IT Consultant by day working on a wide range of web development projects for clients, side projects, hussels and hobbies are varied and many.",
-            "links": [
-                {
-                    "title": "<strong>GitHub</strong> - Projects & Contributions",
-                    "url": "https://github.com/warwickofthegh/"
-                },
-                {
-                    "title": "<strong>LinkedIn</strong> - Did some cool work there",
-                    "url": "https://www.linkedin.com/in/warwickward/"
-                },
-                {
-                    "title": "<strong>Untappd</strong> - Cheers to the good beers!",
-                    "url": "https://www.linkedin.com/in/warwickward/"
-                }
-            ]
+          "title": "<strong>GitHub</strong> - Projects & Contributions",
+          "url": "https://github.com/warwickofthegh/"
         },
         {
-            "type": "project",
-            "imageUrl": "img/homeimprovements.jpg",
-            "title": "Home Improvement",
-            "body": "Making my way through a near full property renovation, discovering, learning, failing, designing and enjoying the process. Check out the <a href='https://www.instagram.com/f.it.ill.give.it.a.go' target='_blank'>Instragram</a> feed for some major wins along the way."
+          "title": "<strong>LinkedIn</strong> - Did some cool work there",
+          "url": "https://www.linkedin.com/in/warwickward/"
         },
         {
-            "type": "project",
-            "imageUrl": "img/homeassistant.png",
-            "title": "Home Assistant",
-            "body": "I spend way to much time automating and integrating local devices and cloud services into my <a href='https://www.home-assistant.io/' target='_blank'><strong>Home Assistant</strong></a> setup. I enjoy cotributing to the forums and have created a browser extension also.",
-            "links": [
-                {
-                    "title": "GitHub Configuration Repo",
-                    "url": "https://github.com/warwickofthegh/Home-Assistant-Configuration"
-                },
-                {
-                    "title": "Quick Restart Browser Extension",
-                    "url": "https://community.home-assistant.io/t/quick-restart-chrome-browser-extension/154476"
-                }
-            ]
+          "title": "<strong>Untappd</strong> - Cheers to the good beers!",
+          "url": "https://www.linkedin.com/in/warwickward/"
         }
-    ]
+      ]
+    },
+    {
+      "type": "project",
+      "imageUrl": "img/homeassistant.png",
+      "title": "Home Assistant",
+      "body": "I spend a good amount of time automating and integrating local devices and cloud services into my <a href='https://www.home-assistant.io/' target='_blank'><strong>Home Assistant</strong></a> setup. I reguarly contribute back to the forums and have created a browser extension",
+      "links": [
+        {
+          "title": "HA Quick Restart Browser Extension",
+          "url": "https://community.home-assistant.io/t/quick-restart-chrome-browser-extension/154476"
+        },
+        {
+          "title": "GitHub Repo",
+          "url": "https://github.com/warwickofthegh/Home-Assistant-Configuration"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "imageUrl": "img/homeimprovements.jpg",
+      "title": "Home Improvement",
+      "body": "Making my way through a near full property renovation, discovering, learning, failing, designing and enjoying the process. Check out the <a href='https://www.instagram.com/f.it.ill.give.it.a.go' target='_blank'>Instagram</a> feed for some major wins along the way"
+    },
+    {
+      "type": "project",
+      "imageUrl": "img/whenisthenextspacexlaunch.jpg",
+      "title": "When is the next SpaceX launch",
+      "body": "SpaceX, enough said... inspiring a planet to explore and reach for the stars. I wanted a fresh, simple, and clean launch list, so I coded <a href='https://whenisthenextspacexlaunch.com' target='_blank'><strong>whenisthenextspacexlaunch.com</strong></a>",
+      "links": [
+        {
+          "title": "When is the next SpaceX launch",
+          "url": "https://whenisthenextspacexlaunch.com"
+        },
+        {
+          "title": "GitHub Repo",
+          "url": "https://github.com/warwickofthegh/whenisthenextspacexlaunch.com"
+        }
+      ]
+    }
+  ]
 }
