@@ -34,7 +34,7 @@ function createItems(items) {
     if (item.type === 'project') {
       itemHTML += `
                 <div class="item">
-                    <div class"item-cont">
+                    <div class="item-cont">
                         <img src="${item.imageUrl}" alt="${item.title}">
                         <p class="body">${item.body}</p>
                         ${itemLinksHTML}
@@ -44,7 +44,7 @@ function createItems(items) {
     } else if (item.type === 'image') {
       itemHTML += `
                 <div class="item">
-                    <div class"item-cont">
+                    <div class="item-cont">
                         <img src="${item.imageUrl}" alt="${item.title}">
                     </div>
                 </div>
